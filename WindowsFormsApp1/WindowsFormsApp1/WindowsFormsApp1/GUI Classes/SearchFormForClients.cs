@@ -4,6 +4,7 @@ using System.Data;
 using System.Data.SqlServerCe;
 using VideoRentalStore.GUI_Classes;
 using System.Drawing;
+using VideoRentalStore.Logic_Classes;
 
 namespace VideoRentalStore
 {
