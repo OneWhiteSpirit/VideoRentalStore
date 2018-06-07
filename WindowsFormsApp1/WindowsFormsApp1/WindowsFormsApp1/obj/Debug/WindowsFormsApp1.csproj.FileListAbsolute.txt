@@ -1,0 +1,311 @@
+C:\Users\Roman\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Roman\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddNewClient.resources
+C:\Users\Roman\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddNewFilm.resources
+C:\Users\Roman\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Roman\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SearchFormForClients.resources
+C:\Users\Roman\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI_Classes.SearchFormForFilms.resources
+C:\Users\Roman\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Startpage.resources
+C:\Users\Roman\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI_Classes.ViewFilm.resources
+C:\Users\Roman\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\Roman\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Roman\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Roman\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Roman\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Roman\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\RU\System.Data.SqlServerCe.resources.dll
+C:\Users\Roman\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Roman\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\One_dc\Documents\Visual Studio 2017\Projects\ver 2.0\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\One_dc\Documents\Visual Studio 2017\Projects\ver 2.0\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\One_dc\Documents\Visual Studio 2017\Projects\ver 2.0\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\One_dc\Documents\Visual Studio 2017\Projects\ver 2.0\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\One_dc\Documents\Visual Studio 2017\Projects\ver 2.0\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\One_dc\Documents\Visual Studio 2017\Projects\ver 2.0\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddNewClient.resources
+C:\Users\One_dc\Documents\Visual Studio 2017\Projects\ver 2.0\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddNewFilm.resources
+C:\Users\One_dc\Documents\Visual Studio 2017\Projects\ver 2.0\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChooseClient.resources
+C:\Users\One_dc\Documents\Visual Studio 2017\Projects\ver 2.0\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChooseFilm.resources
+C:\Users\One_dc\Documents\Visual Studio 2017\Projects\ver 2.0\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ClientFilms.resources
+C:\Users\One_dc\Documents\Visual Studio 2017\Projects\ver 2.0\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FilmDistributionAndReturn.resources
+C:\Users\One_dc\Documents\Visual Studio 2017\Projects\ver 2.0\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\One_dc\Documents\Visual Studio 2017\Projects\ver 2.0\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SearchFormForClients.resources
+C:\Users\One_dc\Documents\Visual Studio 2017\Projects\ver 2.0\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI_Classes.SearchFormForFilms.resources
+C:\Users\One_dc\Documents\Visual Studio 2017\Projects\ver 2.0\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Startpage.resources
+C:\Users\One_dc\Documents\Visual Studio 2017\Projects\ver 2.0\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ViewClientCard.resources
+C:\Users\One_dc\Documents\Visual Studio 2017\Projects\ver 2.0\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI_Classes.ViewFilm.resources
+C:\Users\One_dc\Documents\Visual Studio 2017\Projects\ver 2.0\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\One_dc\Documents\Visual Studio 2017\Projects\ver 2.0\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\One_dc\Documents\Visual Studio 2017\Projects\ver 2.0\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\One_dc\Documents\Visual Studio 2017\Projects\ver 2.0\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\One_dc\Documents\Visual Studio 2017\Projects\ver 2.0\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI_Classes.ViewClientCardForReturn.resources
+C:\Users\Roman\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI_Classes.ViewClientCardForReturn.resources
+C:\Users\Roman\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI_Classes.FilmDistribution.resources
+C:\Users\Roman\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ViewClientCardForDistribution.resources
+C:\Users\Roman\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI_Classes.FilmReturn.resources
+C:\Users\Roman\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI_Classes.ViewClientCard.resources
+C:\Users\one_dc\Desktop\Проект на 19.12.2017\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\one_dc\Desktop\Проект на 19.12.2017\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\one_dc\Desktop\Проект на 19.12.2017\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\one_dc\Desktop\Проект на 19.12.2017\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\one_dc\Desktop\Проект на 19.12.2017\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\one_dc\Desktop\Проект на 19.12.2017\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddNewClient.resources
+C:\Users\one_dc\Desktop\Проект на 19.12.2017\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddNewFilm.resources
+C:\Users\one_dc\Desktop\Проект на 19.12.2017\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI_Classes.FilmReturn.resources
+C:\Users\one_dc\Desktop\Проект на 19.12.2017\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI_Classes.ViewClientCard.resources
+C:\Users\one_dc\Desktop\Проект на 19.12.2017\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChooseClient.resources
+C:\Users\one_dc\Desktop\Проект на 19.12.2017\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChooseFilm.resources
+C:\Users\one_dc\Desktop\Проект на 19.12.2017\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ClientFilms.resources
+C:\Users\one_dc\Desktop\Проект на 19.12.2017\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI_Classes.FilmDistribution.resources
+C:\Users\one_dc\Desktop\Проект на 19.12.2017\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FilmDistributionAndReturn.resources
+C:\Users\one_dc\Desktop\Проект на 19.12.2017\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ViewClientCardForDistribution.resources
+C:\Users\one_dc\Desktop\Проект на 19.12.2017\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI_Classes.ViewClientCardForReturn.resources
+C:\Users\one_dc\Desktop\Проект на 19.12.2017\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\one_dc\Desktop\Проект на 19.12.2017\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SearchFormForClients.resources
+C:\Users\one_dc\Desktop\Проект на 19.12.2017\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI_Classes.SearchFormForFilms.resources
+C:\Users\one_dc\Desktop\Проект на 19.12.2017\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Startpage.resources
+C:\Users\one_dc\Desktop\Проект на 19.12.2017\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI_Classes.ViewFilm.resources
+C:\Users\one_dc\Desktop\Проект на 19.12.2017\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\one_dc\Desktop\Проект на 19.12.2017\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\one_dc\Desktop\Проект на 19.12.2017\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\one_dc\Desktop\Проект на 19.12.2017\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\One_dc\Desktop\drive-download-20171220T055925Z-001\Проект на 20.12.2017 (2.28)\Проект на 20.12.2017 (2.28)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\One_dc\Desktop\drive-download-20171220T055925Z-001\Проект на 20.12.2017 (2.28)\Проект на 20.12.2017 (2.28)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\One_dc\Desktop\drive-download-20171220T055925Z-001\Проект на 20.12.2017 (2.28)\Проект на 20.12.2017 (2.28)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\One_dc\Desktop\drive-download-20171220T055925Z-001\Проект на 20.12.2017 (2.28)\Проект на 20.12.2017 (2.28)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\One_dc\Desktop\drive-download-20171220T055925Z-001\Проект на 20.12.2017 (2.28)\Проект на 20.12.2017 (2.28)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\One_dc\Desktop\drive-download-20171220T055925Z-001\Проект на 20.12.2017 (2.28)\Проект на 20.12.2017 (2.28)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddNewClient.resources
+C:\Users\One_dc\Desktop\drive-download-20171220T055925Z-001\Проект на 20.12.2017 (2.28)\Проект на 20.12.2017 (2.28)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddNewFilm.resources
+C:\Users\One_dc\Desktop\drive-download-20171220T055925Z-001\Проект на 20.12.2017 (2.28)\Проект на 20.12.2017 (2.28)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI_Classes.FilmReturn.resources
+C:\Users\One_dc\Desktop\drive-download-20171220T055925Z-001\Проект на 20.12.2017 (2.28)\Проект на 20.12.2017 (2.28)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI_Classes.ViewClientCard.resources
+C:\Users\One_dc\Desktop\drive-download-20171220T055925Z-001\Проект на 20.12.2017 (2.28)\Проект на 20.12.2017 (2.28)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChooseClient.resources
+C:\Users\One_dc\Desktop\drive-download-20171220T055925Z-001\Проект на 20.12.2017 (2.28)\Проект на 20.12.2017 (2.28)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChooseFilm.resources
+C:\Users\One_dc\Desktop\drive-download-20171220T055925Z-001\Проект на 20.12.2017 (2.28)\Проект на 20.12.2017 (2.28)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ClientFilms.resources
+C:\Users\One_dc\Desktop\drive-download-20171220T055925Z-001\Проект на 20.12.2017 (2.28)\Проект на 20.12.2017 (2.28)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI_Classes.FilmDistribution.resources
+C:\Users\One_dc\Desktop\drive-download-20171220T055925Z-001\Проект на 20.12.2017 (2.28)\Проект на 20.12.2017 (2.28)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FilmDistributionAndReturn.resources
+C:\Users\One_dc\Desktop\drive-download-20171220T055925Z-001\Проект на 20.12.2017 (2.28)\Проект на 20.12.2017 (2.28)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ViewClientCardForDistribution.resources
+C:\Users\One_dc\Desktop\drive-download-20171220T055925Z-001\Проект на 20.12.2017 (2.28)\Проект на 20.12.2017 (2.28)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI_Classes.ViewClientCardForReturn.resources
+C:\Users\One_dc\Desktop\drive-download-20171220T055925Z-001\Проект на 20.12.2017 (2.28)\Проект на 20.12.2017 (2.28)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\One_dc\Desktop\drive-download-20171220T055925Z-001\Проект на 20.12.2017 (2.28)\Проект на 20.12.2017 (2.28)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SearchFormForClients.resources
+C:\Users\One_dc\Desktop\drive-download-20171220T055925Z-001\Проект на 20.12.2017 (2.28)\Проект на 20.12.2017 (2.28)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI_Classes.SearchFormForFilms.resources
+C:\Users\One_dc\Desktop\drive-download-20171220T055925Z-001\Проект на 20.12.2017 (2.28)\Проект на 20.12.2017 (2.28)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Startpage.resources
+C:\Users\One_dc\Desktop\drive-download-20171220T055925Z-001\Проект на 20.12.2017 (2.28)\Проект на 20.12.2017 (2.28)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI_Classes.ViewFilm.resources
+C:\Users\One_dc\Desktop\drive-download-20171220T055925Z-001\Проект на 20.12.2017 (2.28)\Проект на 20.12.2017 (2.28)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\One_dc\Desktop\drive-download-20171220T055925Z-001\Проект на 20.12.2017 (2.28)\Проект на 20.12.2017 (2.28)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\One_dc\Desktop\drive-download-20171220T055925Z-001\Проект на 20.12.2017 (2.28)\Проект на 20.12.2017 (2.28)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\One_dc\Desktop\drive-download-20171220T055925Z-001\Проект на 20.12.2017 (2.28)\Проект на 20.12.2017 (2.28)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\One_dc\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\One_dc\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\One_dc\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\One_dc\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\One_dc\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\One_dc\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddNewClient.resources
+C:\Users\One_dc\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddNewFilm.resources
+C:\Users\One_dc\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI_Classes.FilmReturn.resources
+C:\Users\One_dc\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI_Classes.ViewClientCard.resources
+C:\Users\One_dc\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChooseClient.resources
+C:\Users\One_dc\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChooseFilm.resources
+C:\Users\One_dc\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ClientFilms.resources
+C:\Users\One_dc\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI_Classes.FilmDistribution.resources
+C:\Users\One_dc\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FilmDistributionAndReturn.resources
+C:\Users\One_dc\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ViewClientCardForDistribution.resources
+C:\Users\One_dc\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI_Classes.ViewClientCardForReturn.resources
+C:\Users\One_dc\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\One_dc\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SearchFormForClients.resources
+C:\Users\One_dc\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI_Classes.SearchFormForFilms.resources
+C:\Users\One_dc\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Startpage.resources
+C:\Users\One_dc\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI_Classes.ViewFilm.resources
+C:\Users\One_dc\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\One_dc\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\One_dc\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\One_dc\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SqlServerCe.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddNewClient.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddNewFilm.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI_Classes.FilmReturn.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI_Classes.ViewClientCard.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChooseClient.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChooseFilm.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ClientFilms.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI_Classes.FilmDistribution.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FilmDistributionAndReturn.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ViewClientCardForDistribution.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI_Classes.ViewClientCardForReturn.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SearchFormForClients.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI_Classes.SearchFormForFilms.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Startpage.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI_Classes.ViewFilm.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\one_dc\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\one_dc\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\one_dc\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\one_dc\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\one_dc\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\one_dc\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\one_dc\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddNewClient.resources
+C:\Users\one_dc\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddNewFilm.resources
+C:\Users\one_dc\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI_Classes.FilmReturn.resources
+C:\Users\one_dc\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI_Classes.ViewClientCard.resources
+C:\Users\one_dc\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChooseClient.resources
+C:\Users\one_dc\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChooseFilm.resources
+C:\Users\one_dc\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ClientFilms.resources
+C:\Users\one_dc\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI_Classes.FilmDistribution.resources
+C:\Users\one_dc\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FilmDistributionAndReturn.resources
+C:\Users\one_dc\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ViewClientCardForDistribution.resources
+C:\Users\one_dc\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI_Classes.ViewClientCardForReturn.resources
+C:\Users\one_dc\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\one_dc\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SearchFormForClients.resources
+C:\Users\one_dc\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI_Classes.SearchFormForFilms.resources
+C:\Users\one_dc\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Startpage.resources
+C:\Users\one_dc\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI_Classes.ViewFilm.resources
+C:\Users\one_dc\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\one_dc\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\one_dc\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\one_dc\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\One_dc\Desktop\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\One_dc\Desktop\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\One_dc\Desktop\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\One_dc\Desktop\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\One_dc\Desktop\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\One_dc\Desktop\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\One_dc\Desktop\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddNewClient.resources
+C:\Users\One_dc\Desktop\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddNewFilm.resources
+C:\Users\One_dc\Desktop\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI_Classes.FilmReturn.resources
+C:\Users\One_dc\Desktop\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI_Classes.ViewClientCard.resources
+C:\Users\One_dc\Desktop\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChooseClient.resources
+C:\Users\One_dc\Desktop\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChooseFilm.resources
+C:\Users\One_dc\Desktop\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ClientFilms.resources
+C:\Users\One_dc\Desktop\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI_Classes.FilmDistribution.resources
+C:\Users\One_dc\Desktop\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FilmDistributionAndReturn.resources
+C:\Users\One_dc\Desktop\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ViewClientCardForDistribution.resources
+C:\Users\One_dc\Desktop\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI_Classes.ViewClientCardForReturn.resources
+C:\Users\One_dc\Desktop\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\One_dc\Desktop\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SearchFormForClients.resources
+C:\Users\One_dc\Desktop\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI_Classes.SearchFormForFilms.resources
+C:\Users\One_dc\Desktop\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Startpage.resources
+C:\Users\One_dc\Desktop\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI_Classes.ViewFilm.resources
+C:\Users\One_dc\Desktop\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\One_dc\Desktop\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\One_dc\Desktop\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\One_dc\Desktop\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\one_dc\Desktop\22.12.2017 (19.10)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\one_dc\Desktop\22.12.2017 (19.10)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\one_dc\Desktop\22.12.2017 (19.10)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\one_dc\Desktop\22.12.2017 (19.10)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\one_dc\Desktop\22.12.2017 (19.10)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\one_dc\Desktop\22.12.2017 (19.10)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\one_dc\Desktop\22.12.2017 (19.10)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddNewClient.resources
+C:\Users\one_dc\Desktop\22.12.2017 (19.10)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddNewFilm.resources
+C:\Users\one_dc\Desktop\22.12.2017 (19.10)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI_Classes.FilmReturn.resources
+C:\Users\one_dc\Desktop\22.12.2017 (19.10)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI_Classes.ViewClientCard.resources
+C:\Users\one_dc\Desktop\22.12.2017 (19.10)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChooseClient.resources
+C:\Users\one_dc\Desktop\22.12.2017 (19.10)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChooseFilm.resources
+C:\Users\one_dc\Desktop\22.12.2017 (19.10)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ClientFilms.resources
+C:\Users\one_dc\Desktop\22.12.2017 (19.10)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI_Classes.FilmDistribution.resources
+C:\Users\one_dc\Desktop\22.12.2017 (19.10)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FilmDistributionAndReturn.resources
+C:\Users\one_dc\Desktop\22.12.2017 (19.10)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ViewClientCardForDistribution.resources
+C:\Users\one_dc\Desktop\22.12.2017 (19.10)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI_Classes.ViewClientCardForReturn.resources
+C:\Users\one_dc\Desktop\22.12.2017 (19.10)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\one_dc\Desktop\22.12.2017 (19.10)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SearchFormForClients.resources
+C:\Users\one_dc\Desktop\22.12.2017 (19.10)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI_Classes.SearchFormForFilms.resources
+C:\Users\one_dc\Desktop\22.12.2017 (19.10)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Startpage.resources
+C:\Users\one_dc\Desktop\22.12.2017 (19.10)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI_Classes.ViewFilm.resources
+C:\Users\one_dc\Desktop\22.12.2017 (19.10)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\one_dc\Desktop\22.12.2017 (19.10)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\one_dc\Desktop\22.12.2017 (19.10)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\one_dc\Desktop\22.12.2017 (19.10)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\One_dc\Desktop\23.12.2017 (3.30)\22.12.2017 (19.10)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\One_dc\Desktop\23.12.2017 (3.30)\22.12.2017 (19.10)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\One_dc\Desktop\23.12.2017 (3.30)\22.12.2017 (19.10)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddNewClient.resources
+C:\Users\One_dc\Desktop\23.12.2017 (3.30)\22.12.2017 (19.10)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddNewFilm.resources
+C:\Users\One_dc\Desktop\23.12.2017 (3.30)\22.12.2017 (19.10)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI_Classes.FilmReturn.resources
+C:\Users\One_dc\Desktop\23.12.2017 (3.30)\22.12.2017 (19.10)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI_Classes.ViewClientCard.resources
+C:\Users\One_dc\Desktop\23.12.2017 (3.30)\22.12.2017 (19.10)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI_Classes.FilmDistribution.resources
+C:\Users\One_dc\Desktop\23.12.2017 (3.30)\22.12.2017 (19.10)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ViewClientCardForDistribution.resources
+C:\Users\One_dc\Desktop\23.12.2017 (3.30)\22.12.2017 (19.10)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI_Classes.ViewClientCardForReturn.resources
+C:\Users\One_dc\Desktop\23.12.2017 (3.30)\22.12.2017 (19.10)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\One_dc\Desktop\23.12.2017 (3.30)\22.12.2017 (19.10)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SearchFormForClients.resources
+C:\Users\One_dc\Desktop\23.12.2017 (3.30)\22.12.2017 (19.10)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI_Classes.SearchFormForFilms.resources
+C:\Users\One_dc\Desktop\23.12.2017 (3.30)\22.12.2017 (19.10)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Startpage.resources
+C:\Users\One_dc\Desktop\23.12.2017 (3.30)\22.12.2017 (19.10)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI_Classes.ViewFilm.resources
+C:\Users\One_dc\Desktop\23.12.2017 (3.30)\22.12.2017 (19.10)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\One_dc\Desktop\23.12.2017 (3.30)\22.12.2017 (19.10)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\One_dc\Desktop\23.12.2017 (3.30)\22.12.2017 (19.10)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\One_dc\Desktop\23.12.2017 (3.30)\22.12.2017 (19.10)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\One_dc\Desktop\23.12.2017 (3.30)\22.12.2017 (19.10)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\One_dc\Desktop\23.12.2017 (3.30)\22.12.2017 (19.10)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\One_dc\Desktop\23.12.2017 (3.30)\22.12.2017 (19.10)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\One_dc\Desktop\23.12.2017 (3.30)\22.12.2017 (19.10)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Roman\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\one_dc\Documents\Проект на 24.12.2017 финальный\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\one_dc\Documents\Проект на 24.12.2017 финальный\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\one_dc\Documents\Проект на 24.12.2017 финальный\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\one_dc\Documents\Проект на 24.12.2017 финальный\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\one_dc\Documents\Проект на 24.12.2017 финальный\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\one_dc\Documents\Проект на 24.12.2017 финальный\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddNewClient.resources
+C:\Users\one_dc\Documents\Проект на 24.12.2017 финальный\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddNewFilm.resources
+C:\Users\one_dc\Documents\Проект на 24.12.2017 финальный\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI_Classes.FilmReturn.resources
+C:\Users\one_dc\Documents\Проект на 24.12.2017 финальный\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI_Classes.ViewClientCard.resources
+C:\Users\one_dc\Documents\Проект на 24.12.2017 финальный\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI_Classes.FilmDistribution.resources
+C:\Users\one_dc\Documents\Проект на 24.12.2017 финальный\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ViewClientCardForDistribution.resources
+C:\Users\one_dc\Documents\Проект на 24.12.2017 финальный\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI_Classes.ViewClientCardForReturn.resources
+C:\Users\one_dc\Documents\Проект на 24.12.2017 финальный\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\one_dc\Documents\Проект на 24.12.2017 финальный\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SearchFormForClients.resources
+C:\Users\one_dc\Documents\Проект на 24.12.2017 финальный\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI_Classes.SearchFormForFilms.resources
+C:\Users\one_dc\Documents\Проект на 24.12.2017 финальный\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Startpage.resources
+C:\Users\one_dc\Documents\Проект на 24.12.2017 финальный\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI_Classes.ViewFilm.resources
+C:\Users\one_dc\Documents\Проект на 24.12.2017 финальный\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\one_dc\Documents\Проект на 24.12.2017 финальный\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\one_dc\Documents\Проект на 24.12.2017 финальный\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\one_dc\Documents\Проект на 24.12.2017 финальный\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Roman\Desktop\Проект на 15.01.2018 финальный\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Roman\Desktop\Проект на 15.01.2018 финальный\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Roman\Desktop\Проект на 15.01.2018 финальный\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Roman\Desktop\Проект на 15.01.2018 финальный\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Roman\Desktop\Проект на 15.01.2018 финальный\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\Roman\Desktop\Проект на 15.01.2018 финальный\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddNewClient.resources
+C:\Users\Roman\Desktop\Проект на 15.01.2018 финальный\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddNewFilm.resources
+C:\Users\Roman\Desktop\Проект на 15.01.2018 финальный\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI_Classes.FilmReturn.resources
+C:\Users\Roman\Desktop\Проект на 15.01.2018 финальный\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI_Classes.ViewClientCard.resources
+C:\Users\Roman\Desktop\Проект на 15.01.2018 финальный\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI_Classes.FilmDistribution.resources
+C:\Users\Roman\Desktop\Проект на 15.01.2018 финальный\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ViewClientCardForDistribution.resources
+C:\Users\Roman\Desktop\Проект на 15.01.2018 финальный\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI_Classes.ViewClientCardForReturn.resources
+C:\Users\Roman\Desktop\Проект на 15.01.2018 финальный\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Roman\Desktop\Проект на 15.01.2018 финальный\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SearchFormForClients.resources
+C:\Users\Roman\Desktop\Проект на 15.01.2018 финальный\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI_Classes.SearchFormForFilms.resources
+C:\Users\Roman\Desktop\Проект на 15.01.2018 финальный\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Startpage.resources
+C:\Users\Roman\Desktop\Проект на 15.01.2018 финальный\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI_Classes.ViewFilm.resources
+C:\Users\Roman\Desktop\Проект на 15.01.2018 финальный\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\Roman\Desktop\Проект на 15.01.2018 финальный\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Desktop\Проект на 15.01.2018 финальный\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Roman\Desktop\Проект на 15.01.2018 финальный\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Roman\Desktop\Проект на 15.01.2018 финальный\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Roman\Desktop\Проект на 15.01.2018 финальный\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\RU\System.Data.SqlServerCe.resources.dll
+C:\Users\one_dc\Desktop\Проект на 15.01.2018 финальный(2)\Проект на 15.01.2018 финальный\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\one_dc\Desktop\Проект на 15.01.2018 финальный(2)\Проект на 15.01.2018 финальный\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\one_dc\Desktop\Проект на 15.01.2018 финальный(2)\Проект на 15.01.2018 финальный\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\one_dc\Desktop\Проект на 15.01.2018 финальный(2)\Проект на 15.01.2018 финальный\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\one_dc\Desktop\Проект на 15.01.2018 финальный(2)\Проект на 15.01.2018 финальный\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\one_dc\Desktop\Проект на 15.01.2018 финальный(2)\Проект на 15.01.2018 финальный\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddNewClient.resources
+C:\Users\one_dc\Desktop\Проект на 15.01.2018 финальный(2)\Проект на 15.01.2018 финальный\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddNewFilm.resources
+C:\Users\one_dc\Desktop\Проект на 15.01.2018 финальный(2)\Проект на 15.01.2018 финальный\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI_Classes.FilmReturn.resources
+C:\Users\one_dc\Desktop\Проект на 15.01.2018 финальный(2)\Проект на 15.01.2018 финальный\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI_Classes.ViewClientCard.resources
+C:\Users\one_dc\Desktop\Проект на 15.01.2018 финальный(2)\Проект на 15.01.2018 финальный\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI_Classes.FilmDistribution.resources
+C:\Users\one_dc\Desktop\Проект на 15.01.2018 финальный(2)\Проект на 15.01.2018 финальный\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ViewClientCardForDistribution.resources
+C:\Users\one_dc\Desktop\Проект на 15.01.2018 финальный(2)\Проект на 15.01.2018 финальный\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI_Classes.ViewClientCardForReturn.resources
+C:\Users\one_dc\Desktop\Проект на 15.01.2018 финальный(2)\Проект на 15.01.2018 финальный\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\one_dc\Desktop\Проект на 15.01.2018 финальный(2)\Проект на 15.01.2018 финальный\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SearchFormForClients.resources
+C:\Users\one_dc\Desktop\Проект на 15.01.2018 финальный(2)\Проект на 15.01.2018 финальный\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI_Classes.SearchFormForFilms.resources
+C:\Users\one_dc\Desktop\Проект на 15.01.2018 финальный(2)\Проект на 15.01.2018 финальный\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Startpage.resources
+C:\Users\one_dc\Desktop\Проект на 15.01.2018 финальный(2)\Проект на 15.01.2018 финальный\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI_Classes.ViewFilm.resources
+C:\Users\one_dc\Desktop\Проект на 15.01.2018 финальный(2)\Проект на 15.01.2018 финальный\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\one_dc\Desktop\Проект на 15.01.2018 финальный(2)\Проект на 15.01.2018 финальный\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\one_dc\Desktop\Проект на 15.01.2018 финальный(2)\Проект на 15.01.2018 финальный\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\one_dc\Desktop\Проект на 15.01.2018 финальный(2)\Проект на 15.01.2018 финальный\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
